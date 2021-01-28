@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="beatles" max_length="40" name="x_snc_mccartney_beatles" type="collection">
+        <element label="bass" max_length="40" name="bass" type="string"/>
+        <element label="drums" max_length="40" name="drums" type="string"/>
+        <element label="guitar" max_length="40" name="guitar" type="string"/>
+    </element>
+</database>
